@@ -5,7 +5,12 @@
   margin: 0;
   box-sizing: border-box;
 }
-
+.container{
+  width: 100%;
+  max-width: 1268px;
+  padding: 0 2rem;
+  margin: 0 auto;
+}
 .work-sans-font {
   font-family: "Work Sans", sans-serif;
 }
